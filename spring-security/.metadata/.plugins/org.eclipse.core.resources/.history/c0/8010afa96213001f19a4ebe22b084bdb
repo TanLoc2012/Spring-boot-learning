@@ -1,0 +1,7 @@
+package com.example.springsecurity.rest.impl;
+
+import com.example.springsecurity.rest.IUserRest;
+
+public class UserRestImpl implements IUserRest{
+
+}
